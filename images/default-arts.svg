@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 225" font-family="'Segoe UI', Arial, sans-serif">
+    <rect width="300" height="225" fill="#b5532a"/>
+    <rect width="24" height="225" fill="#000000" fill-opacity="0.2"/>
+    <rect x="24" y="0" width="276" height="8" fill="#f2a541"/>
+    <text x="150" y="95" text-anchor="middle" font-size="24" font-weight="700" fill="#ffffff">Library Book</text>
+    
+    <text x="150" y="205" text-anchor="middle" font-size="12" letter-spacing="3" fill="#ffffff" fill-opacity="0.7">ARTS</text>
+</svg>
